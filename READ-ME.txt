@@ -1,0 +1,11 @@
+  =>  Template Name    : daisybakes - Cake Shop Website Template
+
+  =>  Template Link    : ./cake-shop-website-template
+
+  =>  Template License : ./license (or read the LICENSE.txt file)
+
+  =>  Template Author  : AAQIB FARAZ
+
+  =>  Author Website   : .
+
+  =>  About AAQIB FARAZ : AAQIB FARAZ is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( ./about-us )
